@@ -1,4 +1,4 @@
-# DL-hw1-1
+# DL-hw1-taskA
 This project implements a special convolution module (`DynamicChannelConv`) that supports **arbitrary input channel combinations** (such as RGB, RG, R, G, B). It includes full training, testing, ablation experiments, and FLOPs/parameter analysis.
 
 Q:How to run?    
